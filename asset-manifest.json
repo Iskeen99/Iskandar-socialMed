@@ -1,7 +1,7 @@
 {
   "main.css": "/Iskandar-socialMed/static/css/main.69da4695.chunk.css",
-  "main.js": "/Iskandar-socialMed/static/js/main.22482278.chunk.js",
-  "main.js.map": "/Iskandar-socialMed/static/js/main.22482278.chunk.js.map",
+  "main.js": "/Iskandar-socialMed/static/js/main.72460316.chunk.js",
+  "main.js.map": "/Iskandar-socialMed/static/js/main.72460316.chunk.js.map",
   "static/css/1.30065374.chunk.css": "/Iskandar-socialMed/static/css/1.30065374.chunk.css",
   "static/js/1.92188f36.chunk.js": "/Iskandar-socialMed/static/js/1.92188f36.chunk.js",
   "static/js/1.92188f36.chunk.js.map": "/Iskandar-socialMed/static/js/1.92188f36.chunk.js.map",
@@ -13,10 +13,10 @@
   "runtime~main.js": "/Iskandar-socialMed/static/js/runtime~main.b5f75394.js",
   "runtime~main.js.map": "/Iskandar-socialMed/static/js/runtime~main.b5f75394.js.map",
   "static/media/preloader.svg": "/Iskandar-socialMed/static/media/preloader.a3955c52.svg",
+  "static/css/2.c9baaacc.chunk.css.map": "/Iskandar-socialMed/static/css/2.c9baaacc.chunk.css.map",
   "static/css/main.69da4695.chunk.css.map": "/Iskandar-socialMed/static/css/main.69da4695.chunk.css.map",
   "static/css/1.30065374.chunk.css.map": "/Iskandar-socialMed/static/css/1.30065374.chunk.css.map",
-  "static/css/2.c9baaacc.chunk.css.map": "/Iskandar-socialMed/static/css/2.c9baaacc.chunk.css.map",
   "index.html": "/Iskandar-socialMed/index.html",
-  "precache-manifest.c01e4343e94ad9c2b9dd0d63bebd6037.js": "/Iskandar-socialMed/precache-manifest.c01e4343e94ad9c2b9dd0d63bebd6037.js",
+  "precache-manifest.e63a11ee858154f317a6567af084f88a.js": "/Iskandar-socialMed/precache-manifest.e63a11ee858154f317a6567af084f88a.js",
   "service-worker.js": "/Iskandar-socialMed/service-worker.js"
 }

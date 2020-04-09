@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "72460316ad72ac87a1b3",
+    "revision": "ac5f677c0a796eaaf19b",
     "url": "/Iskandar-socialMed/static/css/main.69da4695.chunk.css"
   },
   {
-    "revision": "72460316ad72ac87a1b3",
-    "url": "/Iskandar-socialMed/static/js/main.72460316.chunk.js"
+    "revision": "ac5f677c0a796eaaf19b",
+    "url": "/Iskandar-socialMed/static/js/main.ac5f677c.chunk.js"
   },
   {
-    "revision": "92188f3648ac52b8ebe6",
+    "revision": "8d723df31f21e97895ab",
     "url": "/Iskandar-socialMed/static/css/1.30065374.chunk.css"
   },
   {
-    "revision": "92188f3648ac52b8ebe6",
-    "url": "/Iskandar-socialMed/static/js/1.92188f36.chunk.js"
+    "revision": "8d723df31f21e97895ab",
+    "url": "/Iskandar-socialMed/static/js/1.8d723df3.chunk.js"
   },
   {
     "revision": "49e5f7a41f7de6f274a8",
@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/Iskandar-socialMed/static/js/2.49e5f7a4.chunk.js"
   },
   {
-    "revision": "c6071d90891d7d8e7e17",
-    "url": "/Iskandar-socialMed/static/js/3.c6071d90.chunk.js"
+    "revision": "7301b74e1b85f95786cf",
+    "url": "/Iskandar-socialMed/static/js/3.7301b74e.chunk.js"
   },
   {
-    "revision": "b5f75394ac6c373522af",
-    "url": "/Iskandar-socialMed/static/js/runtime~main.b5f75394.js"
+    "revision": "8248d12b6b732b30191f",
+    "url": "/Iskandar-socialMed/static/js/runtime~main.8248d12b.js"
   },
   {
     "revision": "a3955c529f056cf65e081eac9361f4a4",
     "url": "/Iskandar-socialMed/static/media/preloader.a3955c52.svg"
   },
   {
-    "revision": "117941d830c6fbddb66a702f8a1523c2",
+    "revision": "37d29021ec7ef9b2b91d62b75fd52939",
     "url": "/Iskandar-socialMed/index.html"
   }
 ];

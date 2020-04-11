@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Iskandar-socialMed/precache-manifest.3aecd513df0eacfc8bd460c6e42d1571.js"
+  "/Iskandar-socialMed/precache-manifest.cf049ed8f1f3af4e3701639d42d48dbf.js"
 );
 
 workbox.clientsClaim();

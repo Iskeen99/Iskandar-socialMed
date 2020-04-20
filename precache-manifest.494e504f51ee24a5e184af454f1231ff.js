@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "851cee0928975ff71b63",
+    "revision": "22ba1a95b93e3dabd315",
     "url": "/Iskandar-socialMed/static/css/main.97a0b5b7.chunk.css"
   },
   {
-    "revision": "851cee0928975ff71b63",
-    "url": "/Iskandar-socialMed/static/js/main.851cee09.chunk.js"
+    "revision": "22ba1a95b93e3dabd315",
+    "url": "/Iskandar-socialMed/static/js/main.22ba1a95.chunk.js"
   },
   {
     "revision": "e1e1cf39f0616ca7876f",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/Iskandar-socialMed/static/media/stayHome2.0b324640.jpg"
   },
   {
-    "revision": "42a6852194df29119460475f9c0be831",
+    "revision": "23b8d7ad385a01c4cec47ca6436d27fa",
     "url": "/Iskandar-socialMed/index.html"
   }
 ];

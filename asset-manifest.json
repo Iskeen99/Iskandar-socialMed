@@ -1,7 +1,7 @@
 {
   "main.css": "/Iskandar-socialMed/static/css/main.97a0b5b7.chunk.css",
-  "main.js": "/Iskandar-socialMed/static/js/main.f3ebe369.chunk.js",
-  "main.js.map": "/Iskandar-socialMed/static/js/main.f3ebe369.chunk.js.map",
+  "main.js": "/Iskandar-socialMed/static/js/main.851cee09.chunk.js",
+  "main.js.map": "/Iskandar-socialMed/static/js/main.851cee09.chunk.js.map",
   "static/css/1.153ea094.chunk.css": "/Iskandar-socialMed/static/css/1.153ea094.chunk.css",
   "static/js/1.e1e1cf39.chunk.js": "/Iskandar-socialMed/static/js/1.e1e1cf39.chunk.js",
   "static/js/1.e1e1cf39.chunk.js.map": "/Iskandar-socialMed/static/js/1.e1e1cf39.chunk.js.map",
@@ -14,10 +14,10 @@
   "runtime~main.js.map": "/Iskandar-socialMed/static/js/runtime~main.6cc263e9.js.map",
   "static/media/preloader.svg": "/Iskandar-socialMed/static/media/preloader.a3955c52.svg",
   "static/media/stayHome2.jpg": "/Iskandar-socialMed/static/media/stayHome2.0b324640.jpg",
-  "static/css/2.89580946.chunk.css.map": "/Iskandar-socialMed/static/css/2.89580946.chunk.css.map",
   "static/css/main.97a0b5b7.chunk.css.map": "/Iskandar-socialMed/static/css/main.97a0b5b7.chunk.css.map",
+  "static/css/2.89580946.chunk.css.map": "/Iskandar-socialMed/static/css/2.89580946.chunk.css.map",
   "static/css/1.153ea094.chunk.css.map": "/Iskandar-socialMed/static/css/1.153ea094.chunk.css.map",
   "index.html": "/Iskandar-socialMed/index.html",
-  "precache-manifest.f78eab5f410e16f8648656054246d984.js": "/Iskandar-socialMed/precache-manifest.f78eab5f410e16f8648656054246d984.js",
+  "precache-manifest.0eba0f2ce7621760224cc237bb8a4020.js": "/Iskandar-socialMed/precache-manifest.0eba0f2ce7621760224cc237bb8a4020.js",
   "service-worker.js": "/Iskandar-socialMed/service-worker.js"
 }
